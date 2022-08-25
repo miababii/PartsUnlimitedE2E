@@ -33,5 +33,4 @@
       <DependentUpon>DependencyValidation1.layerdiagram</DependentUpon>
     </Validate>
   </ItemGroup>
-  <Import Project="$(VSToolsPath)\ArchitectureTools\Microsoft.VisualStudio.TeamArchitect.ModelingProject.targets" Condition="'$(VSToolsPath)' != ''" />
 </Project>
